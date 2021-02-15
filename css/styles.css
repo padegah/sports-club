@@ -13,12 +13,24 @@ header {
     padding: 30px 10%;
 }
 
+.info{
+    font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 16;
+    color: rgb(199, 59, 59);
+    text-decoration: none;
+    border-radius: 10px 50px 0px 16px;
+    padding: 10px;
+    width: 210px;
+    background: #ffe227;
+    margin-left: 1000px;
+}
+
 .social {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     justify-content: space-between;
     align-items: center;
     padding: 30px 10%;
-    margin-top: 400px;
+    margin-top: 300px;
 }
 
 h3, li, a {
